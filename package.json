@@ -1,0 +1,24 @@
+{
+  "name": "PWA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serviceWorker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -c-1 -p 8081 --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VimalDev-Suriya/PWA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VimalDev-Suriya/PWA/issues"
+  },
+  "homepage": "https://github.com/VimalDev-Suriya/PWA#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
